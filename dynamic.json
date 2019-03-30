@@ -1,0 +1,39 @@
+{
+  "profile":{
+    "image":"images/noddy.jpg",
+    "name":"sneha",
+    "designation":"Student",
+    "phoneno":"8872092828",
+    "emailid":"sneha123@gmail.com"
+  },
+  
+    "career_objective":{
+    "info":"To gain knowledge"
+  },
+
+  "Education_Details":
+[
+  {
+    "Institute":"sri siddhartha junior college",
+    "qualification":"Intermediate",
+    "Percentage":"75%",
+    "YOP":"2017"
+  },
+  {
+    "Institute":"Bhashyam public school",
+    "qualification":"ssc",
+    "Percentage":"80%",
+    "YOP":"2015"
+  }
+],
+"Skills":[
+  {
+  "Name":"WebTechnologies",
+  "info":["HTML,CSS,JS"]
+},
+{
+  "name":"Database",
+  "info":["jdbc","sql"]
+}
+]
+}
